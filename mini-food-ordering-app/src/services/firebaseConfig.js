@@ -6,12 +6,12 @@ import { getFirestore } from 'firebase/firestore';
 // Go to Firebase Console -> Project Settings -> General -> Your Apps -> Web app
 // Copy the config object and paste it here
 const firebaseConfig = {
-  apiKey: "AIzaSyD7_WqXp9CEOeD7hq7MxkwPrPo0slaXmnY",
-  authDomain: "mini-food-ordering-olcademy.firebaseapp.com",
-  projectId: "mini-food-ordering-olcademy",
-  storageBucket: "mini-food-ordering-olcademy.firebasestorage.app",
-  messagingSenderId: "407536957432",
-  appId: "1:407536957432:web:e8a8a779fb12836d9ac80d"
+  apiKey: "API",
+  authDomain: "authDomain",
+  projectId: "projectId",
+  storageBucket: "storageBucket",
+  messagingSenderId: " messagingSenderId",
+  appId: "appId"
 };
 
 // Initialize Firebase
