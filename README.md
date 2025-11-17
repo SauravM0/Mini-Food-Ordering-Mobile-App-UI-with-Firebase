@@ -14,8 +14,8 @@ A modern mobile food ordering application built with React Native and Expo, feat
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="../Menu Page 1.png" alt="Menu Page" width="200"/>
-  <img src="../Menu Page 2.png" alt="Menu Page with Items" width="200"/>
+  <img src="Mini-Food-Ordering-Mobile-App-UI-with-Firebase/Menu Page 1.png" alt="Menu Page" width="200"/>
+  <img src="Mini-Food-Ordering-Mobile-App-UI-with-Firebase/Menu Page 2.png" alt="Menu Page with Items" width="200"/>
   <img src="../Cart Page.png" alt="Cart Page" width="200"/>
   <img src="../Order Summary.png" alt="Order Summary" width="200"/>
   <img src="../Summary Page 2.png" alt="Order Summary with Details" width="200"/>
