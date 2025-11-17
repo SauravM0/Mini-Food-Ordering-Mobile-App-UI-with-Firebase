@@ -14,13 +14,13 @@ A modern mobile food ordering application built with React Native and Expo, feat
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="../Menu%20Page%201.png" alt="Menu Page" width="200"/>
-  <img src="../Menu%20Page%202.png" alt="Menu Page with Items" width="200"/>
-  <img src="../Cart%20Page.png" alt="Cart Page" width="200"/>
-  <img src="../Summary%20Page%201.png" alt="Order Summary" width="200"/>
-  <img src="../Summary%20Page%202.png" alt="Order Summary with Details" width="200"/>
-  <img src="../Confirm%20Page.png" alt="Order Confirmation" width="200"/>
-  <img src="../Profile%20Page.png" alt="Profile Page" width="200"/>
+  <img src="../Menu Page 1.png" alt="Menu Page" width="200"/>
+  <img src="../Menu Page 2.png" alt="Menu Page with Items" width="200"/>
+  <img src="../Cart Page.png" alt="Cart Page" width="200"/>
+  <img src="../Order Summary.png" alt="Order Summary" width="200"/>
+  <img src="../Summary Page 2.png" alt="Order Summary with Details" width="200"/>
+  <img src="../Confirm Page.png" alt="Order Confirmation" width="200"/>
+  <img src="../Profile Page.png" alt="Profile Page" width="200"/>
 </div>
 
 ## 🚀 Getting Started
