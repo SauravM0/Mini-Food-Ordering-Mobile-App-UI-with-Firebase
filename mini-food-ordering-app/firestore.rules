@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow public read access to menu items for the food ordering app
+    match /menuItems/{document} {
+      allow read: if true;
+      allow write: if request.auth != null && request.auth.token.admin == true;
+    }
+    
+    // Orders can be created by anyone (for demo purposes)
+    match /orders/{document} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if false;
+      allow delete: if false;
+    }
+    
+    // Allow users to read their own profile
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}
